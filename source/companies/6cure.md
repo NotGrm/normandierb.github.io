@@ -17,9 +17,9 @@ coffee_script_level: beginner
 nosql_level:
 other_tools:
 has_running_rails_app: [hosted]
-github_url: http://github.com/NotGrm
-twitter_url: http://twitter.com/NotGrm
-linkedin_url: fr.linkedin.com/in/bertrandjeremy/
+github_url: 
+twitter_url: http://twitter.com/6cure
+linkedin_url: fr.linkedin.com//company/6cure-sas
 viadeo_url:
-url:
+url: 6cure.com
 ---
